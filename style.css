@@ -1,0 +1,166 @@
+ul {
+    margin-left: 460px;
+    /* margin-right: 400px; */
+    
+  }
+
+  .navbar-brand {
+    margin-left: 70px;
+  }
+
+  .nav-item a {
+    margin-left: 15px;
+  }
+
+  /* a:hover {
+    text-decoration: underline;
+    color: black;
+  } */
+   .nav-item a:hover{
+    padding-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5px;
+
+  }
+  
+  /* body
+  {
+    width: 95%;
+  } */
+  
+  
+  nav {
+    
+    background-color: white;
+
+  }
+
+  .p_img1 h1 {
+    margin-top: -285px;
+    font-weight: 500;
+    color: white;
+    font-size: 69px;
+
+  }
+  .p_img1 p {
+    color: white; 
+    font-size: 16px; 
+    font-weight: 400; 
+    margin-top: -2px;
+  }
+
+  .p_img2 h1 {
+    margin-top: -317px;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 72px;
+  }
+  .p_img2 p {
+    color: white; 
+    font-size: 16px; 
+    font-weight: 500; 
+    margin-top: -2px;
+  }
+
+  .p_img3 h1 {
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 54px;
+  }
+
+  .b_img .card:hover .card-img-top
+  {
+    filter: brightness(72%);
+    transition: all 0.4s ease-in-out;
+  }
+
+  .ribbon
+  {
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    max-height: 30px;
+    padding: 6px 15px;
+    font-size: 13px;
+    margin: 8px 8px 8px 0px;
+    text-align: left;
+    color: white;
+    background-color: var(--ribbon-background-color,#000);
+  }
+ 
+  #but_i {
+    border: 7px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 474px;
+    font-size: 13px;
+    background-color: white;
+    padding: 10px 26px 10px 26px;
+  }
+
+  #ct {
+    border: 7px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 460px;
+    font-size: 13px;
+    padding: 10px 26px 10px 26px;
+    background-color: white;
+  }
+
+  .b_text {
+    /* width: 1059px; */
+    width: 1059px;
+  }
+  
+  
+
+  input
+  {  
+    margin-top: 7px;
+    font-size: small;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 133px;
+    padding-left: 10px;
+    border: none;
+  }
+
+  .fm{
+    margin-left: 400px;
+   
+  }
+  #but
+  {
+    padding: 9px 30px 9px 30px;
+    margin-left: 47%;
+     font-size: 13px;
+     background-color: white;
+    
+  }
+  #but_cd1
+  {
+    background-color: rgb(62, 9, 62)   ;
+     color: white; border: none;
+     font-size: 13px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     padding: 10px 26px 10px 26px;
+  }
+  #but_cd2
+  {
+    background-color: rgb(62, 9, 62)   ;
+     color: white; border: none;
+     font-size: 13px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     padding: 10px 26px 10px 26px;
+  }
+  .p_img3
+  {
+    margin-top: -330px;
+    color: white;
+  }
+
+  .Instagram .fi_t
+  {
+   margin-top: 150px;
+    margin-bottom: 31px;
+    font-size: 38px
+  }
